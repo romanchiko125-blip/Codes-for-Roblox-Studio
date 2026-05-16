@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "megavillages",
+    "name": "Mega Villages",
+    "description": "Bigger city-like villages, more villagers, animals, and more loot.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Codex"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
